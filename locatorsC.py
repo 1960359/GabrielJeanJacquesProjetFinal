@@ -1,0 +1,10 @@
+lst_ViewDetails1 = "//a[text()='"
+lst_ViewDetails2 = "']/ancestor::tr/td//div/a/span[text()='View Details']"
+lnk_propeties1 = "xpath = /html[1]/body[1]/div[4]/div[1]/div[2]/div[4]/div[2]/div[4]/div[1]/div[1]/h2[1]"
+lnk_AddComment1 = "xpath = //span[@id='yui-gen4']"
+txt_AddComment = "xpath = //div[@id='mceu_19']"
+lst_EditPRopreties1 = "//a[text()='"
+lst_EditPRopreties2 = "']/ancestor::tr/td//div/a//span[text()='Edit Properties']"
+Btn_SaveEdit ="xpath=(//button[@name="-"])[5]"
+txt_EditName ="//input[name()='prop_cm_name']"
+#Btn_Supprimer ="//button[name()='Delete']"s
